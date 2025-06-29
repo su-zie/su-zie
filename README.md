@@ -11,7 +11,8 @@
 
 ### 📚 Skills So Far
 - Python programming  
-- HTML & CSS (in progress)  
+- HTML5 & CSS3
+- JavaScript fundamentals (in progress)
 - Git + GitHub  
 - Data handling (CSV, file I/O)  
 - Fast learning, clear communication, and a passion for clean code
